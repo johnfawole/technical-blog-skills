@@ -1,3 +1,7 @@
+---
+name: technical-blog-writing
+description: Guidance for planning and writing technical blog posts.
+---
 Write technical blog posts and tutorials in the voice of a senior software engineer talking to peers, with opinionated takes, a punchy topic, a minimal problem-first introduction, runnable code, and a short FAQ. Use this skill whenever the user asks for a blog post, tutorial, how-to, listicle, comparison, or explainer aimed at developers, engineers, builders, or founders, even if they don't say "blog". Also use it to rewrite or review an existing technical draft.
 
 Technical Blog Writing
